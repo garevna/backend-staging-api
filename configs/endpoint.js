@@ -1,0 +1,1 @@
+exports.endpoint = 'https://portal.staging.dgtek.net/polygons'

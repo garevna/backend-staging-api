@@ -1,0 +1,32 @@
+[
+  {
+    "question":"How an optical power meter differs from an OTDR",
+    "keywords":["power meter","OTDR","optical","fiber","FOTP"],
+    "file":"faq1580631279063.html"
+  },
+  {
+    "question":"What do I need for connecting Optic Fibre Cable to a Cat 5 Cable?",
+    "keywords":["forward signal","reverse signal","fiber"],
+    "file":"faq1580631279087.html"
+  },
+  {
+    "question":"Does this still hold true with six fiber or 12 fiber premise style cable?",
+    "keywords":["cable","premise style","fiber","",""],
+    "file":"faq1580631279088.html"
+  },
+  {
+    "question":"What is the difference in connectorization in tight buffered and loose tube type of cables?",
+    "keywords":["connectorization","tight buffered","loose tube type","cable",""],
+    "file":"faq1580631279085.html"
+  },
+  {
+    "question":"What is modal bandwidth, and how does it effect what distances gigabit ethernet can travel over fiber?",
+    "keywords":["bandwidth","modal bandwidth","gigabit","fiber","test"],
+    "file":"faq1580631279084.html"
+  },
+  {
+    "question":"Will a single mode connector work on multi-mode cable?",
+    "file":"faq1580649429978.html",
+    "keywords":["fiber","signal","trouble","SM fiber","MM fiber"]
+  }
+]
